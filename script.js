@@ -1,0 +1,1 @@
+// No se necesita JavaScript para esta animación básica, pero puedes agregar interactividad si lo deseas.
